@@ -230,7 +230,6 @@ footer {
     background-color: var(--secondary-color);
     font-size: 18px;
     border-radius: 50%;
-
 }
 .socialmedia-links a:hover {
     display: inline-block;
@@ -244,10 +243,12 @@ footer {
 }
 .footer-work-inquiry h3 {
     color: white;
+    font-family: serif;
 }
 .footer-work-inquiry h4 {
     font-size: 18px;
     color: var(--primary-color);
+    font-family: serif;
 }
 .footer-contactme-button {
     color: var(--primary-color);
@@ -263,6 +264,7 @@ footer {
     color: var(--secondary-color);
     font-family: serif;
     background-color: white;
+    margin-top: 10px;
 }
 .socialmedia-links {
     text-align: center;
